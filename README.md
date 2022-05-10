@@ -21,7 +21,7 @@
 1. [Interpretation of Logistic Regression coefficients - sklearn](https://www.youtube.com/watch?v=SFz_Hbna8Pk)
 2. [Probability interpretation of LR coefficients](https://www.youtube.com/watch?v=eX2sY2La4Ew&t=574s)
 
-## Feature Engineering
+## Feature Engineering & Feature Selection
 
 ### Books
 1. [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
