@@ -9,3 +9,6 @@
 1. [Interpretation of Logistic Regression coefficients - sklearn](https://www.youtube.com/watch?v=SFz_Hbna8Pk)
 2. [Probability interpretation of LR coefficients](https://www.youtube.com/watch?v=eX2sY2La4Ew&t=574s)
 
+### Imbalanced data 
+1. [Natalie Hockham: Machine learning with imbalanced data sets](https://www.youtube.com/watch?v=X9MZtvvQDR4)
+
