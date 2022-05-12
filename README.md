@@ -12,6 +12,19 @@
 ### Papers
 1. [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://github.com/Abhiswain97/Machine-Learning-Collection/blob/main/Model%20Evaluation%2C%20Model%20Selection%2C%20and%20Algorithm.pdf)
 
+## Decision Trees
+
+### Blogs
+1. [Build Better Decision Trees with Pruning](https://towardsdatascience.com/build-better-decision-trees-with-pruning-8f467e73b107)
+2. [Post pruning decision trees with cost complexity pruning](https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#sphx-glr-auto-examples-tree-plot-cost-complexity-pruning-py)
+3. [Minimal Cost-Complexity Pruning](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning) 
+
+## Metrics
+
+### Blogs
+1. [Balanced Accuracy: When Should You Use It?](https://neptune.ai/blog/balanced-accuracy)
+2. [Precision vs. Recall – An Intuitive Guide for Every Machine Learning Person](https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/)
+
 ## Statistical Learning
 
 ### Books
