@@ -5,6 +5,7 @@
 
 ### Blogs
 1. [Cost-Sensitive Learning for Imbalanced Classification](https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/)
+2. [Balanced Accuracy: When Should You Use It?](https://neptune.ai/blog/balanced-accuracy)
 
 ## Statistical Learning
 
