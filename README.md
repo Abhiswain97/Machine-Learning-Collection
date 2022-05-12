@@ -7,6 +7,11 @@
 1. [Cost-Sensitive Learning for Imbalanced Classification](https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/)
 2. [Balanced Accuracy: When Should You Use It?](https://neptune.ai/blog/balanced-accuracy)
 
+## Model Selection & Evaluation
+
+### Papers
+1. [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://github.com/Abhiswain97/Machine-Learning-Collection/blob/main/Model%20Evaluation%2C%20Model%20Selection%2C%20and%20Algorithm.pdf)
+
 ## Statistical Learning
 
 ### Books
