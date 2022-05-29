@@ -6,6 +6,8 @@
 ### Blogs
 1. [Cost-Sensitive Learning for Imbalanced Classification](https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/)
 2. [Balanced Accuracy: When Should You Use It?](https://neptune.ai/blog/balanced-accuracy)
+3. [How to Improve Class Imbalance using Class Weights in Machine Learning](https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/)
+4. [How does class_weight work in Decision Tree?](https://datascience.stackexchange.com/questions/90939/how-does-class-weight-work-in-decision-tree)
 
 ## Model Selection & Evaluation
 
