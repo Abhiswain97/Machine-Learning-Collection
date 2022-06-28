@@ -37,6 +37,7 @@
 
 ### Books
 1. [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+2. [Explanatory Model Analysis: Explore, Explain, and Examine Predictive Models. With examples in R and Python.](https://ema.drwhy.ai/)
 
 ## Videos
 1. [Interpretation of Logistic Regression coefficients - sklearn](https://www.youtube.com/watch?v=SFz_Hbna8Pk)
