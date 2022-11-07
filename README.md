@@ -53,5 +53,10 @@
 ### Books
 1. [Think Stats](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
+## Linear Algebra
+
+### Blogs
+1. [High-quality math resources that helped me become an Amazon ML Scientist](https://medium.com/@ardivekar/high-quality-math-resources-that-helped-me-become-an-amazon-ml-scientist-82f7164500b2)
+
 
 
